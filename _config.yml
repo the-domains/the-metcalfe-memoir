@@ -1,0 +1,14 @@
+layout_spectrum: 0.45373491244390607
+typography_spectrum: 0.5958297569304705
+color:
+  brandStrength: 0.8530950567219406
+  lightness: 0.3473843850661069
+  saturation: 0.5248074438422918
+  rhythmicContrast: 0.1590205447282642
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: the metcalfe memoir
